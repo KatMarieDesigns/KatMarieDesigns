@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Kat @KatMarieDesigns.
 - 👀 I’m interested in learning and growing as a web designer + developer.
-- 🌱 I’m currently learning Javascript, Python, and Ruby on Rails.
-- 💞️ I’m looking to develop an app.
+- 🌱 Some of my skills: HTML, CSS, Javascript, Ruby on Rails. I’m currently learning Python and Java.
+- 💞️ I’m looking to develop an app and a mobile game.
 - 📫 How to reach me: katmariedesigns at gmail dot com.
 
 <!---
