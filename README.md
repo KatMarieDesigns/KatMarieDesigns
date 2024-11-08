@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Kat.
 - 👀 Recent cybersecurity graduate with a strong passion for continuous learning and growth in the field of cybersecurity.
 - 🌱 Some of my skills: HTML, CSS, Javascript, Ruby on Rails, Python, Bash.
-- 💞️ Logs, BlueTeam, Incident Response, Risk Management Analysis, Forensics.
+- 💞️ Logs, BlueTeam, Incident Response, Risk Management Assessments, Forensics.
 - 📫 How to reach me: cyberseckat at gmail dot com.
 
 <!---
